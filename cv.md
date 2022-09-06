@@ -14,4 +14,4 @@ function multiply(a, b){
 
 I work as a contract manager and recently became interested in coding.
 
-Languages English A1
+Languages English A1.
